@@ -3,7 +3,7 @@ import React from 'react'
 import './style.css'
 
 const Home = () => (
-    <div>
+    <div stlye={{height: '100%'}}>
         <h1>
             Home
         </h1>
